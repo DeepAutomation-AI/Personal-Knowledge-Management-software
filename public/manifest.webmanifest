@@ -1,0 +1,15 @@
+{
+  "name": "Atlas — Gestión del conocimiento personal",
+  "short_name": "Atlas",
+  "description": "Escribe y conecta tu conocimiento, también sin conexión.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f8fa",
+  "theme_color": "#7560bf",
+  "lang": "es",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
